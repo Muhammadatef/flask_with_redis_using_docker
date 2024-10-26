@@ -40,7 +40,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/Muhammadatef/flask_with_redis_using_docker.git)
    ```
 
 2. **Navigate to the project directory**:
