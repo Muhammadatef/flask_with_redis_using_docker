@@ -1,0 +1,2 @@
+Flask==2.3.3  # Ensure to use a version compatible with your app
+redis==4.5.5  # For interacting with Redis
