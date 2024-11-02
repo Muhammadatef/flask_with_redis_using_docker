@@ -23,8 +23,7 @@ This project is a simple Flask web application that uses Redis to count and stor
 │   ├── requirements.txt    # List of Python dependencies
 │   └── Dockerfile          # Docker configuration for the Flask app
 ├── redis/                  # Redis configuration folder
-│   └── Dockerfile          # Docker configuration for Redis server
-├── docker-compose.yml      # Docker Compose configuration file
+│   └── docker-compose.yml         #  Docker Compose configuration file
 └── README.md               # Project documentation
 ```
 
